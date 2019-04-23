@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel SISTEMA DE HOTEL SANTA ROSA 
                 </div>
 
                 <div class="links">
